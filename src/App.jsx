@@ -3,13 +3,12 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Header from "./component/Header";
 import Footer from "./component/Footer";
 import Sidebar from "./Section/FormComponent/Sidebar";  // Global sidebar for all pages
-import SidebarBlog from "./Section/BlogSection/SidebarBlog";  // Blog-specific sidebar
-import Homepage from "./Section/HomeSection/Homepage";
+ import Homepage from "./Section/HomeSection/Homepage";
 import Register from "./Section/FormComponent/Register";
 import Login from "./Section/FormComponent/Login";
 import Aboutpage from "./Section/AboutSection/Aboutpage";
 import BlogNews from "./Section/BlogSection/BlogNews";
-import Contact from "./Section/ContactSection/contact";
+import Contact from "./Section/ContactSection/Contact";
 import Forgatepassword from "./Section/FormComponent/Forgatepassword";
 import Genesis from "./Section/HomeSection/CardsFloder/Genesis";
 import AudiList from "./Section/HomeSection/CardsFloder/AudiList";
