@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+
+  
+.menu-ul {
+  font-family: 'Comfortaa', sans-serif;
+}
+
+/* Apply Oleo Script font to elements with the .font-tag class */
+.font-tag {
+  font-family: 'Oleo Script', cursive;
+}
+
+body p {
+  font-family: 'Comfortaa', sans-serif;
+}
+
+/* Apply Syncopate font to all h1 tags in body */
+body h1 {
+  font-family: 'Trochut', sans-serif;
+}
+body h3 {
+  font-family: 'Poppins', sans-serif;
+}
